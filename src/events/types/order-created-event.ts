@@ -11,6 +11,6 @@ export interface OrderCreatedEvent {
       id: string;
       price: number;
     };
-    expiresAt: string;
+    expiresAtt: string;
   };
 }
