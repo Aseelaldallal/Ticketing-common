@@ -20,3 +20,4 @@ export * from './events/types/ticket-created-event';
 export * from './events/types/ticket-updated-event';
 export * from './events/types/order-created-event';
 export * from './events/types/order-cancelled-event';
+export * from './events/types/expiration-complete-event';
